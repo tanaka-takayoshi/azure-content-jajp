@@ -24,7 +24,7 @@
 
 ##Azure で Oracle WebLogic Server 12c および Oracle Database 12c の仮想マシンを作成するには
 
-1. [Azure ポータル](https://ms.portal.azure.com/)にサインインします。
+1. [Azure ポータル](https://portal.azure.com/)にサインインします。
 
 2.	**[Marketplace]**、**[Compute]** をクリックし、続いて検索ボックスに**「Oracle」**と入力します。
 

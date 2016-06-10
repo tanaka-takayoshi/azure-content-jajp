@@ -76,19 +76,19 @@ Data Lake Analytics は、Cortana Analytics Suite の重要な部分でもあり
 
 ### Azure Data Lake Store を作成する
 
-[Azure ポータル](http://ms.portal.azure.com)から ADLS を作成します。詳細については、「[Azure ポータルを使用して、Data Lake Store を使用する HDInsight クラスターを作成する](../data-lake-store/data-lake-store-hdinsight-hadoop-use-portal.md)」を参照してください。クラスター AAD ID は、説明されている **[オプションの構成]** ブレードの **[データソース]** ブレードに設定する必要があります。
+[Azure ポータル](http://portal.azure.com)から ADLS を作成します。詳細については、「[Azure ポータルを使用して、Data Lake Store を使用する HDInsight クラスターを作成する](../data-lake-store/data-lake-store-hdinsight-hadoop-use-portal.md)」を参照してください。クラスター AAD ID は、説明されている **[オプションの構成]** ブレードの **[データソース]** ブレードに設定する必要があります。
 
  ![3](./media/machine-learning-data-science-process-data-lake-walkthough/create_ADLS.PNG)
 
 
 ### Azure Data Lake Analytics アカウントを作成する
-Azure ポータルから [ADLA アカウント](http://ms.portal.azure.com)を作成します。詳細については、「[チュートリアル: Azure ポータルで Azure Data Lake Analytics の使用を開始する](../data-lake-analytics/data-lake-analytics-get-started-portal.md)」を参照してください。
+Azure ポータルから [ADLA アカウント](http://portal.azure.com)を作成します。詳細については、「[チュートリアル: Azure ポータルで Azure Data Lake Analytics の使用を開始する](../data-lake-analytics/data-lake-analytics-get-started-portal.md)」を参照してください。
 
  ![4](./media/machine-learning-data-science-process-data-lake-walkthough/create_ADLA_new.PNG)
 
 
 ### Azure BLOB ストレージ アカウントを作成する
-[Azure ポータル](http://ms.portal.azure.com)から Azure BLOB ストレージ アカウントを作成します。詳細については、「[Azure ストレージ アカウントについて](../storage/storage-create-storage-account.md)」の「ストレージ アカウントの作成」セクションを参照してください。
+[Azure ポータル](http://portal.azure.com)から Azure BLOB ストレージ アカウントを作成します。詳細については、「[Azure ストレージ アカウントについて](../storage/storage-create-storage-account.md)」の「ストレージ アカウントの作成」セクションを参照してください。
 	
  ![5](./media/machine-learning-data-science-process-data-lake-walkthough/Create_Azure_Blob.PNG)
 
@@ -628,7 +628,7 @@ U-SQL スクリプトの編集を完了したら、Azure Data Lake Analytics ア
 Azure Machine Learning Studio を使用して、Azure Data Lake Store から直接データを読み取り、モデルを作成してデプロイできます。Azure Machine Learning で Azure Data Lake Store のデータを直接読み取るには、Hive テーブルを作成する必要があります。この場合、別の Azure HDInsight クラスターをプロビジョニングし、そこに Azure Data Lake Store を示す Hive テーブルを作成します。次のサブセクションでは、その手順について説明します。
 
 #### HDInsight Linux クラスターを作成する
-[Azure ポータル](http://ms.portal.azure.com)から HDInsight クラスター (Linux) を作成します。詳細については、「[Azure ポータルを使用して、Data Lake Store を使用する HDInsight クラスターを作成する](../data-lake-store/data-lake-store-hdinsight-hadoop-use-portal.md)」の「Azure Data Lake Store にアクセスできる HDInsight クラスターを作成する」セクションを参照してください。
+[Azure ポータル](http://portal.azure.com)から HDInsight クラスター (Linux) を作成します。詳細については、「[Azure ポータルを使用して、Data Lake Store を使用する HDInsight クラスターを作成する](../data-lake-store/data-lake-store-hdinsight-hadoop-use-portal.md)」の「Azure Data Lake Store にアクセスできる HDInsight クラスターを作成する」セクションを参照してください。
 
  ![6](./media/machine-learning-data-science-process-data-lake-walkthough/create_HDI_cluster.PNG)
 

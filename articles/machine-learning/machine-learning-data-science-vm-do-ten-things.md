@@ -42,7 +42,7 @@ Microsoft データ サイエンス仮想マシン (DSVM) は、データの探�
 
 - Azure サブスクリプションが必要です。[こちら](https://azure.microsoft.com/free/)から無料試用版にサインアップできます。
 
-- Azure ポータルでデータ サイエンス仮想マシンをプロビジョニングする手順については、「[Creating a virtual machine (仮想マシンの作成)](https://ms.portal.azure.com/#create/microsoft-ads.standard-data-science-vmstandard-data-science-vm)」を参照してください。
+- Azure ポータルでデータ サイエンス仮想マシンをプロビジョニングする手順については、「[Creating a virtual machine (仮想マシンの作成)](https://portal.azure.com/#create/microsoft-ads.standard-data-science-vmstandard-data-science-vm)」を参照してください。
 
 ## 1\.Microsoft R Server または Python を使用してデータを探索し、モデルを開発する
 

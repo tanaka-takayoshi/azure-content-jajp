@@ -24,7 +24,7 @@
 
 ##Azure で Oracle WebLogic Server 12c 仮想マシンを作成するには
 
-1. [Azure ポータル](https://ms.portal.azure.com/)にログインします。
+1. [Azure ポータル](https://portal.azure.com/)にログインします。
 
 2. **[Marketplace]**、**[Compute]** をクリックし、続いて検索ボックスに**「Oracle」**と入力します。
 
@@ -52,7 +52,7 @@
 
 ##Azure で Oracle WebLogic Server 12c 仮想マシンを構成するには
 
-1. [Azure ポータル](https://ms.portal.azure.com/)にログインします。
+1. [Azure ポータル](https://portal.azure.com/)にログインします。
 
 2.	**[Virtual Machines]** をクリックします。
 
@@ -129,7 +129,7 @@
 
 10.	仮想マシンのエンドポイントを作成します。
 
-	1. [Azure ポータル](https://ms.portal.azure.com/)にログインします。
+	1. [Azure ポータル](https://portal.azure.com/)にログインします。
 
 	2.	**[参照]** をクリックします
 
@@ -173,7 +173,7 @@
 
 	8.	規則の名前とオプションで説明を指定し、続いて **[完了]** をクリックします。
 
-12.	インターネット上で実行しているショッピングカート アプリケーションを表示するには、ブラウザーを開いて `http://<<unique_domain_name>>/shoppingcart` の形式の URL にアクセスします。([Azure ポータル](https://ms.portal.azure.com/)内で <<*unique\_domain\_name*>> の値を確定するには、**[Virtual Machines]** をクリックし、続いて Oracle WebLogic Server を実行するために使用している仮想マシンを選択します。)
+12.	インターネット上で実行しているショッピングカート アプリケーションを表示するには、ブラウザーを開いて `http://<<unique_domain_name>>/shoppingcart` の形式の URL にアクセスします。([Azure ポータル](https://portal.azure.com/)内で <<*unique\_domain\_name*>> の値を確定するには、**[Virtual Machines]** をクリックし、続いて Oracle WebLogic Server を実行するために使用している仮想マシンを選択します。)
 
 
 ##その他のリソース

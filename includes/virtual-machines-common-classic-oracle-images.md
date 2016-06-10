@@ -1,7 +1,7 @@
 
 
 
-Oracle イメージに基づく Virtual Machines を作成するには、[Azure ポータル](https://ms.portal.azure.com/)にサインインして **[Marketplace]** をクリック後、**[Compute]** をクリックし、検索ボックスに「**Oracle**」と入力します。イメージを選択し、手順に従って Microsoft Azure でイメージを設定します。[Azure ポータル](https://ms.portal.azure.com/)では、Microsoft による Oracle イメージは Windows で、Oracle による Oracle イメージは Oracle Linux で実行されることに注意してください。
+Oracle イメージに基づく Virtual Machines を作成するには、[Azure ポータル](https://portal.azure.com/)にサインインして **[Marketplace]** をクリック後、**[Compute]** をクリックし、検索ボックスに「**Oracle**」と入力します。イメージを選択し、手順に従って Microsoft Azure でイメージを設定します。[Azure ポータル](https://portal.azure.com/)では、Microsoft による Oracle イメージは Windows で、Oracle による Oracle イメージは Oracle Linux で実行されることに注意してください。
 
 ![](./media/virtual-machines-common-classic-oracle-images/image1.png)
 

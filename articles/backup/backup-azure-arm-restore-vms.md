@@ -34,7 +34,7 @@ Backup サービスを使用してデータを保護するには、定義され�
 
 ## 復旧ポイントを復元する
 
-1. [Azure ポータル](http://ms.portal.azure.com/)にサインインします。
+1. [Azure ポータル](http://portal.azure.com/)にサインインします。
 
 2. Azure メニューで **[参照]** をクリックし、サービスの一覧で「**Recovery Services**」と入力します。入力した文字列に合わせて、サービスの一覧の内容が変更されます。**[Recovery Services コンテナー]** が表示されたら、それを選択します。
 

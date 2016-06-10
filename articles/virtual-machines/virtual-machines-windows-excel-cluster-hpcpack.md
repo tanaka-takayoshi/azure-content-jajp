@@ -46,7 +46,7 @@
 ### クイックスタート テンプレートを使用する
 Azure クイックスタート テンプレートを使用すると、Azure ポータルで HPC Pack クラスターをすばやく簡単にデプロイできます。プレビュー ポータルでテンプレートを開くと表示される簡単な UI で、クラスターの設定を入力します。手順は次のようになります。
 
->[AZURE.TIP]必要に応じて、Excel ワークロードと似たクラスターを作成できる [Azure Marketplace テンプレート](https://ms.portal.azure.com/?feature.relex=*%2CHubsExtension#create/microsofthpc.newclusterexcelcn)を使用します。この場合、以下の手順とは一部異なります。
+>[AZURE.TIP]必要に応じて、Excel ワークロードと似たクラスターを作成できる [Azure Marketplace テンプレート](https://portal.azure.com/?feature.relex=*%2CHubsExtension#create/microsofthpc.newclusterexcelcn)を使用します。この場合、以下の手順とは一部異なります。
 
 1.  [GitHub の HPC クラスター テンプレートの作成に関するページ](https://github.com/Azure/azure-quickstart-templates/tree/master/create-hpc-cluster)を参照します。必要な場合は、テンプレートとソース コードに関する情報を確認します。
 

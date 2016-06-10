@@ -60,6 +60,6 @@ Azure Virtual Machines のバックアップ インフラストラクチャの�
 
 [Azure Site Recovery](https://azure.microsoft.com/documentation/learning-paths/site-recovery/)
 
-不明な点がある場合、または Microsoft による代理操作をご希望の場合は、[カスタマー サポート](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade)までご連絡ください。
+不明な点がある場合、または Microsoft による代理操作をご希望の場合は、[カスタマー サポート](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade)までご連絡ください。
 
 <!---HONumber=AcomDC_0525_2016-->

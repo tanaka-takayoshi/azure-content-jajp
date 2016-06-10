@@ -25,7 +25,7 @@ Azure 仮想ハード ディスク (VHD) は、リモート デスクトップ �
 ### BLOB URL の検出
 VHD をダウンロードするには、まず、オペレーティング システム ディスクの BLOB URL を探します。
 
-新しい [Microsoft Azure ポータル](https://ms.portal.azure.com)から BLOB URL を見つけます。
+新しい [Microsoft Azure ポータル](https://portal.azure.com)から BLOB URL を見つけます。
 
 1.	**[参照]**、**[仮想マシン]** の順に移動し、デプロイされた VM を選択します。
 2.	**[構成]** で **[ディスク]** タイルを選択し、[ディスク] ブレードを開きます。
